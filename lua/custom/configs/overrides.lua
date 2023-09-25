@@ -40,6 +40,8 @@ M.mason = {
 
     -- python
     "pyright",
+    "mypy",
+    "black",
   },
 }
 

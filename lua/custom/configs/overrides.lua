@@ -42,6 +42,7 @@ M.mason = {
     "pyright",
     "mypy",
     "black",
+    "debugpy",
   },
 }
 
